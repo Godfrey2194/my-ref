@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+.welcome img {
+    border-radius: 50%;
+}
+
+.navbar {
+    background-color: rgb(119, 94, 64);
+    height: 19px;
+    padding: 5%;
+}
+
+.navbar a {
+    padding: 5%;
+    background-color: rgb(113, 170, 113);
+}
